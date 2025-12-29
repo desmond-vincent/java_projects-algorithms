@@ -25,7 +25,7 @@ void main() {
 
 }
 
-// Simple range randomizer, using light weight technique
+// Simple range randomizer, using lightweight technique
 public static void roll(int dices) {
 
     int sum = 0;
